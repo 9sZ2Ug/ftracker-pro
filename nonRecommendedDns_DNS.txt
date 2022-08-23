@@ -1,3 +1,7 @@
 ! Description: 不推薦的DNS解析器列表 - List of non-recommended DNS resolvers
 ! Expires: 1 hour
 ! Format: AdGuard DNS (https://adguard-dns.io/kb/general/dns-filtering-syntax/)
+
+! Chinese Tencent #2
+||dns.weixin.qq.com^
+||aedns.weixin.qq.com^
