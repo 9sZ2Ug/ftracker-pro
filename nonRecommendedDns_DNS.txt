@@ -3,5 +3,5 @@
 ! Format: AdGuard DNS (https://adguard-dns.io/kb/general/dns-filtering-syntax/)
 
 ! Chinese Tencent #2
-||dns.weixin.qq.com^
+||dns.weixin.qq.com
 ||aedns.weixin.qq.com^
