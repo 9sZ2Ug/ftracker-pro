@@ -5,3 +5,5 @@
 ! Chinese Tencent #2
 ||dns.weixin.qq.com
 ||aedns.weixin.qq.com^
+119.29.29.98
+119.29.29.99
