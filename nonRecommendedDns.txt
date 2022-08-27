@@ -7,4 +7,6 @@
 ||aedns.weixin.qq.com^
 /cgi-bin/*/newgetdns
 /cgi-bin/*/getdns
-
+119.29.29.98$network
+119.29.29.99$network
+/.*\/d\W+(dn|token|ip|query|timeout|ttl|type|clientip|id)=.*/
