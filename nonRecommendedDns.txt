@@ -10,3 +10,8 @@
 119.29.29.98$network
 119.29.29.99$network
 /.*\/d\W+(dn|token|ip|query|timeout|ttl|type|clientip|id)=.*/
+119.29.29.29$network
+1.12.12.12$network
+120.53.53.53$network
+||doh.pub^
+||dot.pub^
